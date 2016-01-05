@@ -10,3 +10,4 @@ A macro I made for quick looping sounds creation in Reaper. I use it all the tim
 4. Adjust the crossfade to make sure it sounds good.
 5. If everything went fine, you should have a looping sound ready to export. You can delete the extra items from the left and right of the time selection.
 
+Quick demo [here](http://www.carlosyusim.com/blog/2016/1/5/reaper-quickloop-macro)
